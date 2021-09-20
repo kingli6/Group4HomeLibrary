@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace testProjectForGruppwWork.Entertaiment.Items
 {
-    class LordOfTheRings : Film, ILivingroom
+    class LordOfTheRings : Film, ILivingroom, IBedroom
     {
+
     }
 }

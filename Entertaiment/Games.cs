@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace testProjectForGruppwWork
 {
-    class Games : Entertainment
+    public class Games : Entertainment
     {
+        public List<string> GameList = new List<string>() {"Diablo 2", " Underrail"};        
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace testProjectForGruppwWork
 {
-    class Film : Entertainment
+    public class Film : Entertainment
     {
+        public List<string> FilmList = new List<string>(){ "Lord of the Rings", "Terminator" };
+
     }
+
 }

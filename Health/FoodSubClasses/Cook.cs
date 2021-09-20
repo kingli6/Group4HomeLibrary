@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace testProjectForGruppwWork.Entertaiment.Items
+namespace testProjectForGruppwWork.Health
 {
-    class Mario : Games, ILivingroom
+    class Cook : Food
     {
-
     }
 }

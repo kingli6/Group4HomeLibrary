@@ -10,5 +10,12 @@ namespace testProjectForGruppwWork
     {
         public string Name;
 
+
+        public void DisplayStartScreen()
+        {
+            Console.WriteLine("Welcome to your home entertainment system!");
+            Console.WriteLine("What do you want to access?");   
+
+        }
     }
 }
