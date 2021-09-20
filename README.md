@@ -1,6 +1,6 @@
-#Group4 HomeLibrary Project
+# Group4 HomeLibrary Project
 
-##Application overview
+## Application overview
 The user navigates through the menu to choose what hen wants to do. With the help of inheritence, 
 interfaces and error handling, hen would be allowed to choose activites in a spesific part of the room
 
